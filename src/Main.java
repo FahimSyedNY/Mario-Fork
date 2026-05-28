@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Super Mario Game");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(960, 580);
+        frame.setSize(980, 580);
         frame.setLocationRelativeTo(null);
 
         // create a DisplayPanel object
